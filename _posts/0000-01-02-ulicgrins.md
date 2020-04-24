@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my first post on GitHub.
+:smirk_cat: *HIC SVNT LEONES* :smirk_cat:
 Use the left arrow to go back!
